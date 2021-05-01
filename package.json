@@ -1,0 +1,23 @@
+{
+  "name": "adp_interview",
+  "version": "1.0.0",
+  "description": "Assessment for ADP interview",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsartori/nodejs_app.git"
+  },
+  "keywords": [
+    "adp"
+  ],
+  "author": "Júlio César Sartori Neto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsartori/nodejs_app/issues"
+  },
+  "homepage": "https://github.com/jsartori/nodejs_app#readme"
+}
